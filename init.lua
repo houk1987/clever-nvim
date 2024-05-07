@@ -13,3 +13,7 @@ require "config.mason-lspconfig"
 require "config.lsp.lua_ls"
 require "config.lsp.pyright"
 
+-- plugin config
+
+require "config.plugins.cmp"
+
